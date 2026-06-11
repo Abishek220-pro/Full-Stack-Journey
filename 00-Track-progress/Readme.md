@@ -1,6 +1,8 @@
 # Full Stack Learning Journey
-Started: [11/06/2026]
+
+Started: [your start date]
 Daily Time: 3 hours
+
 ## Progress
 - [ ] Internet Fundamentals
 - [ ] HTML
