@@ -1,6 +1,6 @@
 # Full Stack Learning Journey
 
-Started: [your start date]
+Started: [11/06/2026]
 Daily Time: 3 hours
 
 ## Progress
