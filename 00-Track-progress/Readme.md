@@ -4,8 +4,8 @@ Started: [11/06/2026]
 Daily Time: 3 hours
 
 ## Progress
-- [ ] Internet Fundamentals
-- [ ] HTML
+- [X] Internet Fundamentals
+- [] HTML
 - [ ] CSS
 - [ ] JavaScript
 - [ ] TypeScript
