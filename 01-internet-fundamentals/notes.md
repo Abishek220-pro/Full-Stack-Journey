@@ -5,9 +5,9 @@
 - [X] DNS, IP Addressing
 - [X] TCP, UDP
 - [X] HTTP, HTTPS, SSL/TLS
-- [ ] Cookies, Sessions
-- [ ] Caching, CDN
-- [ ] Load Balancing
+- [X] Cookies, Sessions
+- [X] Caching, CDN
+- [X] Load Balancing
 
 ### Internet Architecture:
              The internet is not one single thing. It is a system of systems — millions of computers, cables, routers, and rules all connected together worldwide.
