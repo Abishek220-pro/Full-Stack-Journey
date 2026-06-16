@@ -6,7 +6,7 @@
 
 ## ◆ Concepts & Tools ◆
 
-<img src="https://skillicons.dev/icons?i=html,cloudflare,github,vscode,linux" />
+
 
 <br><br>
 
