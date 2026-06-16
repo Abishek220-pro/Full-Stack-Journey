@@ -1,34 +1,20 @@
 <center># Full Stack Journey</center>
-```md
-# 🚀 Full Stack Journey
+````md
+## 🌐 00 — Internet & Web Fundamentals
 
-> From fundamentals to senior-level full-stack engineering.
-
----
-
-## 📚 Learning Roadmap
-
-### 00. 🌐 Internet & Web Fundamentals
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cloudflare,linux,github,vscode" />
-</p>
-
-Learn the core concepts behind how the web works.
-
-**Topics:**
-
--What is the Internet vs the Web
--How DNS works (domain → IP address)
--What HTTP and HTTPS are
--Request and Response cycle
--What a browser actually does (parsing HTML, CSS, JS)
--What a server is and what a client is
--What an IP address and port number are
--What TCP/IP is (just the concept, not deep networking)
--What a protocol is
+- What is the Internet vs the Web?
+- What is a Client and a Server?
+- What is an IP Address and a Port Number?
+- What is a Protocol?
+- What is TCP/IP? (Conceptual Overview)
+- How DNS Works (Domain → IP Address)
+- What are HTTP and HTTPS?
+- Understanding the Request–Response Cycle
+- What Happens When You Type a URL in the Browser?
+- What a Browser Actually Does (Parsing HTML, CSS, and JavaScript)
 
 📂 **Module:** [`00-how-the-web-works`](./00-how-the-web-works/README.md)
+```
 
 ---
 
