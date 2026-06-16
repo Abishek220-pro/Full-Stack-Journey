@@ -18,16 +18,15 @@ Learn the core concepts behind how the web works.
 
 **Topics:**
 
-- How the Internet Works
-- Client & Server Architecture
-- DNS
-- IP Addresses
-- HTTP & HTTPS
-- Browser Rendering
-- Cookies & Sessions
-- APIs & JSON
-- Caching & CDN
-- Browser DevTools
+-What is the Internet vs the Web
+-How DNS works (domain → IP address)
+-What HTTP and HTTPS are
+-Request and Response cycle
+-What a browser actually does (parsing HTML, CSS, JS)
+-What a server is and what a client is
+-What an IP address and port number are
+-What TCP/IP is (just the concept, not deep networking)
+-What a protocol is
 
 📂 **Module:** [`00-how-the-web-works`](./00-how-the-web-works/README.md)
 
