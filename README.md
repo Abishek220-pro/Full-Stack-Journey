@@ -1,7 +1,6 @@
 # 🚀 Full Stack Journey
 
-<center>🌐</center>
-> From fundamentals to production-ready full-stack applications.
+<center><b3>🌐 </b3></center>
 
 ---
 
