@@ -1,21 +1,51 @@
-# Full Stack Journey
-<center>```md
-# 🌐 Internet & Web Fundamentals
+<center># Full Stack Journey</center>
+```md
+# 🚀 Full Stack Journey
 
-<div align="center">
-
-## ◆ Concepts & Tools ◆
-
-
-
-<br><br>
-
-`HTTP` • `HTTPS` • `DNS` • `TCP/IP` • `API` • `JSON` • `CDN` • `SSL/TLS`
-
-</div>
+> From fundamentals to senior-level full-stack engineering.
 
 ---
 
-> Learn how the internet works behind the scenes before building websites and applications.
+## 📚 Learning Roadmap
+
+### 00. 🌐 Internet & Web Fundamentals
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cloudflare,linux,github,vscode" />
+</p>
+
+Learn the core concepts behind how the web works.
+
+**Topics:**
+
+- How the Internet Works
+- Client & Server Architecture
+- DNS
+- IP Addresses
+- HTTP & HTTPS
+- Browser Rendering
+- Cookies & Sessions
+- APIs & JSON
+- Caching & CDN
+- Browser DevTools
+
+📂 **Module:** [`00-how-the-web-works`](./00-how-the-web-works/README.md)
+
+---
+
+### 01. HTML *(Coming Soon)*
+
+### 02. CSS *(Coming Soon)*
+
+### 03. JavaScript *(Coming Soon)*
+
+### 04. React *(Coming Soon)*
+
+### 05. Backend *(Coming Soon)*
+
+### 06. Databases *(Coming Soon)*
+
+### 07. DevOps *(Coming Soon)*
+
+### 08. System Design *(Coming Soon)*
 ```
-</center>
