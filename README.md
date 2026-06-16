@@ -1,2 +1,1 @@
-# Full-Stack-Journey
-time is gold 
+# Full Stack Journey
