@@ -1,274 +1,122 @@
 <div align="center">
 
-# 🌌 FULL STACK JOURNEY
-### *"I alone level up."*
+# 🚀 Full Stack Journey
+### From Zero to Production-Ready Engineer
 
-**From Zero → Production-Ready Engineer**
+![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-2ea043?style=for-the-badge&labelColor=0d1117)
+![Current Phase](https://img.shields.io/badge/CURRENT_PHASE-01_HTML5-1f6feb?style=for-the-badge&labelColor=0d1117)
+![Phases](https://img.shields.io/badge/TOTAL_PHASES-22-8957e5?style=for-the-badge&labelColor=0d1117)
+![Consistency](https://img.shields.io/badge/CONSISTENCY-DAILY-f78166?style=for-the-badge&labelColor=0d1117)
 
-![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-9d4edd?style=for-the-badge&labelColor=0d0d0d)
-![Phase](https://img.shields.io/badge/CURRENT_PHASE-01_HTML5-00d9ff?style=for-the-badge&labelColor=0d0d0d)
-![Rank](https://img.shields.io/badge/HUNTER_RANK-E-555555?style=for-the-badge&labelColor=0d0d0d)
-![Commitment](https://img.shields.io/badge/CONSISTENCY-DAILY-39ff14?style=for-the-badge&labelColor=0d0d0d)
-
-```
-"In a world where only the strong survive,
- the weak have only one path forward —
- to keep leveling up, one phase at a time."
-```
+*A structured, self-paced roadmap from web fundamentals to AI engineering —*
+*built one phase at a time, with full ownership over every concept.*
 
 </div>
 
 ---
 
-## 🕳️ THE SYSTEM HAS AWAKENED YOU
+## 📖 About This Repository
 
-> You entered the dungeon as **E-Rank**. HTML is the first gate. React is mid-tier.
-> System Design is an S-Rank boss. AI Engineering is the Monarch's domain.
->
-> There are no shortcuts here. Only **daily quests**, completed one at a time,
-> until the day you stop being prey — and become the hunter every system fears.
+This repository documents my complete Full Stack Development journey — from the fundamentals of how the web works, through modern frontend and backend engineering, all the way to AI Engineering.
 
----
+Every phase includes notes, hands-on exercises, and small projects that prove the concept was actually understood — not just read.
 
-## 📜 QUEST LOG — THE 22 GATES
-
-<table>
-<tr><td>
-
-### 🌍 Gate 00 — How the Web Works
-*The Awakening*
-Understand the world before you fight in it: HTTP, DNS, browsers, servers, the internet's nervous system.
-
-</td><td>
-
-### 🧱 Gate 01 — HTML5
-*First Weapon Forged*
-Semantic structure, accessibility, forms, metadata — the skeleton every system stands on.
-
-</td></tr>
-
-<tr><td>
-
-### 🎨 Gate 02 — CSS3
-*Shaping the Shadow*
-Layout, Flexbox, Grid, animations, responsive design. Make it move. Make it beautiful.
-
-</td><td>
-
-### 🌈 Gate 03 — Tailwind CSS
-*Utility-Class Mastery*
-Speed-build interfaces without leaving your HTML. Style at the speed of thought.
-
-</td></tr>
-
-<tr><td>
-
-### ⚙️ Gate 04 — JavaScript (Deep)
-*Awakening the Core Stat*
-Closures, async, prototypes, the event loop. The language every other gate depends on.
-
-</td><td>
-
-### 🟦 Gate 05 — TypeScript
-*Reinforcing the Armor*
-Types, interfaces, generics. Catch your mistakes before the system punishes you.
-
-</td></tr>
-
-<tr><td>
-
-### ⚛️ Gate 06 — React
-*Summoning Components*
-Hooks, component architecture, rendering — build interfaces that react to the world.
-
-</td><td>
-
-### 🧩 Gate 07 — State Management
-*Controlling the Battlefield*
-Context, Redux, Zustand — keep complex apps predictable under pressure.
-
-</td></tr>
-
-<tr><td>
-
-### 📝 Gate 08 — Forms & Validation
-*Sealing the Weak Points*
-React Hook Form, Zod/Yup — no bad data gets through the gate.
-
-</td><td>
-
-### 🎨 Gate 09 — UI Engineering
-*Refining the Aesthetic*
-Design systems, animation, micro-interactions. Function and elegance, fused.
-
-</td></tr>
-
-<tr><td>
-
-### 🚀 Gate 10 — Next.js
-*S-Rank Frontend Framework*
-SSR, SSG, App Router, edge functions. Frontend with backend superpowers.
-
-</td><td>
-
-### 🟢 Gate 11 — Backend (Node & Express)
-*Entering the Server Dungeon*
-REST APIs, middleware, routing — the engine behind every real product.
-
-</td></tr>
-
-<tr><td>
-
-### 🗄️ Gate 12 — Databases
-*The Vault of Persistent Data*
-SQL & NoSQL, schema design, indexing, relationships, transactions.
-
-</td><td>
-
-### ⚡ Gate 13 — Redis
-*Speed Beyond Limits*
-Caching, sessions, queues — for when milliseconds matter.
-
-</td></tr>
-
-<tr><td>
-
-### 🔐 Gate 14 — Authentication & Security
-*The Guardian's Trial*
-JWT, OAuth, hashing, OWASP basics. Protect the gate from intruders.
-
-</td><td>
-
-### 🏛️ Gate 15 — NestJS
-*The Architect's Framework*
-Enterprise-grade backend architecture: modules, DI, decorators.
-
-</td></tr>
-
-<tr><td>
-
-### 🌐 Gate 16 — APIs & Real-time
-*Cross-Dimensional Communication*
-GraphQL, WebSockets, gRPC — systems that talk to each other instantly.
-
-</td><td>
-
-### 🏭 Gate 17 — Production Systems
-*Surviving Contact With Real Users*
-Logging, monitoring, error handling, scaling under load.
-
-</td></tr>
-
-<tr><td>
-
-### ☁️ Gate 18 — DevOps
-*Forging the Deployment Pipeline*
-Docker, CI/CD, cloud platforms — ship code without fear.
-
-</td><td>
-
-### 🧠 Gate 19 — System Design
-*The High Hunter's Exam*
-Scalability, load balancing, distributed systems. Think in millions of users.
-
-</td></tr>
-
-<tr><td>
-
-### 💼 Gate 20 — SaaS Engineering
-*Building Your Own Guild*
-Multi-tenancy, billing, subscriptions — turn code into a business.
-
-</td><td>
-
-### 🌐 Gate 21 — Computer Networks
-*Understanding the Battlefield Terrain*
-TCP/IP, sockets, latency — the physics layer beneath every app.
-
-</td></tr>
-
-<tr><td colspan="2">
-
-### 🤖 Gate 22 — AI Engineering
-*The Monarch's Domain — Final Boss*
-LLMs, embeddings, RAG, agents. Build systems that think alongside you.
-
-</td></tr>
-</table>
+> *"Consistency builds mastery."*
+> Progress here is tracked daily, one phase at a time — no shortcuts, no skipped fundamentals.
 
 ---
 
-## 🗂️ DUNGEON MAP (REPO STRUCTURE)
+## 🗺️ Learning Roadmap
+
+| # | Phase | Focus Area |
+|:---:|:---|:---|
+| 00 | 🌍 **How the Web Works** | HTTP, DNS, browsers, servers, client-server architecture |
+| 01 | 🧱 **HTML5** | Semantic structure, accessibility, forms, metadata |
+| 02 | 🎨 **CSS3** | Layout, Flexbox, Grid, responsive design, animations |
+| 03 | 🌈 **Tailwind CSS** | Utility-first styling, rapid UI development |
+| 04 | ⚙️ **JavaScript (Deep)** | Closures, async/await, prototypes, the event loop |
+| 05 | 🟦 **TypeScript** | Static typing, interfaces, generics |
+| 06 | ⚛️ **React** | Components, hooks, rendering, component architecture |
+| 07 | 🧩 **State Management** | Context API, Redux, Zustand |
+| 08 | 📝 **Forms & Validation** | React Hook Form, Zod/Yup schema validation |
+| 09 | 🎨 **UI Engineering** | Design systems, animation, micro-interactions |
+| 10 | 🚀 **Next.js** | SSR, SSG, App Router, edge functions |
+| 11 | 🟢 **Backend (Node & Express)** | REST APIs, middleware, routing |
+| 12 | 🗄️ **Databases** | SQL & NoSQL, schema design, indexing, transactions |
+| 13 | ⚡ **Redis** | Caching, sessions, queues |
+| 14 | 🔐 **Authentication & Security** | JWT, OAuth, hashing, OWASP fundamentals |
+| 15 | 🏛️ **NestJS** | Enterprise backend architecture, modules, DI |
+| 16 | 🌐 **APIs & Real-time** | GraphQL, WebSockets, gRPC |
+| 17 | 🏭 **Production Systems** | Logging, monitoring, error handling, scaling |
+| 18 | ☁️ **DevOps** | Docker, CI/CD, cloud deployment |
+| 19 | 🧠 **System Design** | Scalability, load balancing, distributed systems |
+| 20 | 💼 **SaaS Engineering** | Multi-tenancy, billing, subscriptions |
+| 21 | 🌐 **Computer Networks** | TCP/IP, sockets, latency fundamentals |
+| 22 | 🤖 **AI Engineering** | LLMs, embeddings, RAG, AI agents |
+
+---
+
+## 📂 Repository Structure
 
 ```
 Full-Stack-Journey/
 │
-├── 00-how-the-web-works/      🌍 Gate 00
-├── 01-internet-fundamentals/  🌐 Foundations
-├── 02-Html/                   🧱 Gate 01
+├── 00-how-the-web-works/
+├── 01-internet-fundamentals/
+├── 02-Html/
 │   ├── exercises/
 │   └── notes.md
-├── 03-CSS/                    🎨 Gate 02
-├── 04-Tailwind/               🌈 Gate 03
-├── 05-JavaScript/             ⚙️ Gate 04
-├── 06-TypeScript/             🟦 Gate 05
-├── 07-React/                  ⚛️ Gate 06
+├── 03-CSS/
+├── 04-Tailwind/
+├── 05-JavaScript/
+├── 06-TypeScript/
+├── 07-React/
 │   ...
-└── 22-AI-Engineering/         🤖 Gate 22 (Final Boss)
+└── 22-AI-Engineering/
 ```
 
-Each gate folder contains:
-- 📓 `notes.md` — concepts, summaries, "boss fight" gotchas
-- 🧪 `exercises/` — hands-on practice, no copy-paste
-- 🏗️ `projects/` — small builds that prove the skill is real
+Each phase folder follows the same convention:
+
+| Folder/File | Purpose |
+|:---|:---|
+| `notes.md` | Concept summaries, key takeaways, common pitfalls |
+| `exercises/` | Hands-on practice — written without copy-pasting |
+| `projects/` | Small builds that apply the phase's concepts |
 
 ---
 
-## 📊 HUNTER STATUS
+## 📊 Current Progress
 
 <div align="center">
 
-| Stat | Value |
+| Metric | Status |
 |:---|:---:|
-| 🎯 **Current Gate** | `01 — HTML5` |
-| 🔥 **Daily Streak** | Tracked in commits below |
-| 🧭 **Final Goal** | Production-ready, scalable systems |
-| 🏆 **End Boss** | AI Engineering (Gate 22) |
-| ⚔️ **Method** | Build → Break → Understand → Repeat |
+| 🎯 Current Phase | `01 — HTML5` |
+| 📅 Update Frequency | Daily |
+| 🧭 End Goal | Production-ready, scalable full stack systems |
+| 🏁 Final Phase | AI Engineering |
+| 🔁 Method | Build → Break → Understand → Repeat |
 
 </div>
 
 ---
 
-## 🔥 THE MINDSET
+## 🎯 Principles I'm Following
 
-```
-╔══════════════════════════════════════════════════╗
-║                                                    ║
-║   "Consistency builds mastery."                   ║
-║                                                    ║
-║   Every gate cleared is permanent.                ║
-║   Every skipped day is a level not gained.         ║
-║   There is no system notification for shortcuts.  ║
-║                                                    ║
-╚══════════════════════════════════════════════════╝
-```
-
-**The Rules of This Dungeon:**
-1. 🚫 No copy-paste — only what you can rebuild from memory counts as learned
-2. 📅 Show up daily — even a 20-minute quest beats a skipped day
-3. 🏗️ Build, don't just read — every gate ends in a working project
-4. 📝 Document the fight — `notes.md` is your hunter's log for future you
-5. 🔁 Revisit weak gates — a true Shadow Monarch never leaves a weakness unpatched
+1. **No copy-paste** — if I can't rebuild it from memory, I haven't learned it yet
+2. **Daily consistency** — even a short session beats a skipped day
+3. **Build over read** — every phase ends in something working, not just notes
+4. **Document everything** — `notes.md` files are written for future-me, not just present-me
+5. **Revisit weak spots** — a gap found later gets patched, not ignored
 
 ---
 
 <div align="center">
 
-### 🌌 "Arise."
+### ⚡ "I alone level up."
 
-**Built by [Abishek](https://github.com/Abishek220-pro) — One Gate at a Time**
+**Maintained by [Abishek](https://github.com/Abishek220-pro)** — building in public, one phase at a time
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abishek220-pro&style=for-the-badge&color=9d4edd)
+![Profile Views](https://komarev.com/ghpvc/?username=Abishek220-pro&style=for-the-badge&color=1f6feb)
 
 </div>
