@@ -9,7 +9,7 @@
 ![Consistency](https://img.shields.io/badge/CONSISTENCY-DAILY-f78166?style=for-the-badge&labelColor=0d1117)
 
 *A structured, self-paced roadmap from web fundamentals to AI engineering —*
-*built one phase at a time, with full ownership over every concept.*
+*built one phase at a time, with full ownership over every concept. *
 
 </div>
 
