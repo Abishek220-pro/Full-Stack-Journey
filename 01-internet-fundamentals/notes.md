@@ -1,7 +1,7 @@
 # 🌐 Web Fundamentals — Request–Response Cycle
 
 <p align="center">
-  A visual guide to understanding how browsers communicate with servers, resolve domains, transfer data securely, and render web pages.
+        A visual guide to understanding how browsers communicate with servers, resolve domains, transfer data securely, and render web pages.
 </p>
 
 <p align="center">
