@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>day-2 html</title>
+    </head>
+
+    <body>
+
+        <form>
+            <lable>Name:</lable>
+            <input type="text" name="username"><br/>
+
+            <lable>Email:</lable>
+            <input type="email" name="useremail"><br/>
+
+            <lable>Date:</lable>
+            <input type="date" name="bithday"><br/>
+
+            <lable>Gender</lable>
+            <input type="radio" name="gender" value="male">male
+            <input type="radio" name="gender" value="female">female<br/>
+
+            <lable>Checklist:</lable><br/>
+
+            <input type="checkbox" name="skill" value="html">Html
+        </form>
+
+        <input type="checkbox" name="skill" value="html">CSS<br/>
+        <input type="checkbox" name="skill" value="JavaScript">javascript<br/>
+
+        </form>
+
+        <br>
+        <br>
+
+        <form>
+            <lable for="username">NAME:</lable>
+            <input type="text" id="username" name="name">
+            <br>
+        </form>
+
+        <br>
+        <br>
+
+        <form>
+            <lable for="xyz">Name of Student:</lable>
+            <input
+                type="text"
+                id="xyz"
+                name="username"
+                required
+                pattern="[A-Za-z]{3}"
+                title="must be 3 letters"
+            >
+            <button type="submit">Click here !</button>
+        </form>
+
+        <br>
+        <br>
+        <br>
+
+        <form>
+            <fieldset>
+                <legend>personal information</legend>
+
+                <lable for="name1">Name:</lable>
+                <input type="text" id="name1" name="username">
+                <br>
+
+                <label for="email1">Email:</label>
+                <input type="email" id="email1" name="useremail">
+                <br>
+
+                <lable for="dof1">Dateofbirth:</lable>
+                <input type="date" id="dof1" name="bithday">
+                <br>
+
+                <lable>Gender:</lable>
+                <input type="radio" name="gender" value="male">male
+                <input type="radio" name="gender" value="female">female
+                <br>
+
+                <lable>Terms & condition</lable><br>
+
+                <input
+                    type="checkbox"
+                    name="termsandcondtion"
+                    value="Introduction & Acceptance"
+                >
+                Introduction & Acceptance<br>
+
+                <input
+                    type="checkbox"
+                    name="termsandcondtion"
+                    value="Intellectual Property"
+                >
+                Intellectual Property<br>
+
+                <input
+                    type="checkbox"
+                    name="termsandcondtion"
+                    value="User Conduct & Account Termination"
+                >
+                User Conduct & Account Termination<br>
+
+                <input
+                    type="checkbox"
+                    name="termsandcondtion"
+                    value="Limitation of Liability"
+                >
+                Limitation of Liability<br>
+
+            </fieldset>
+
+            <fieldset>
+                <legend>Security</legend>
+
+                <lable for="pass">Password and security</lable>
+                <input
+                    type="password"
+                    id="pass"
+                    username="userpass"
+                    required
+                    pattern="[0-9]{5}"
+                >
+            </fieldset>
+
+            <button type="submit">Clicke me !</button>
+        </form>
+
+    </body>
+</html>
