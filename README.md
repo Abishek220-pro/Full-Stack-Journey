@@ -135,8 +135,8 @@ Each phase folder follows the same convention:
 
 ### 🧱 Phase 1 — HTML5 *(3 Days)*
 
-- [✅] **Day 1:** Semantic HTML (`header`, `main`, `section`, `article`, `nav`, `footer`) & DOM Structure
-- [✅] **Day 2:** Forms & Validation (`<form>`, `<input>`, attributes, `required`, `pattern`)
+- [ ] **Day 1:** Semantic HTML (`header`, `main`, `section`, `article`, `nav`, `footer`) & DOM Structure
+- [ ] **Day 2:** Forms & Validation (`<form>`, `<input>`, attributes, `required`, `pattern`)
 - [ ] **Day 3:** Multimedia (`<picture>`, `<video>`, `<audio>`) & SEO Metadata — 🛠️ **Project: Semantic Personal Profile**
 
 ### 🎨 Phase 2 — CSS3 & Tailwind *(6 Days)*
