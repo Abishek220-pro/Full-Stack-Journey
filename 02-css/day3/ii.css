@@ -1,0 +1,19 @@
+.h1{
+    color:red;
+
+}
+.ak{
+    color:gray;
+    border:2px solid black;
+    width: 80px;
+    padding:20px;
+}
+.box{
+    border:5px dotted rgb(17, 4, 4);
+    background-color:red;
+    width: 200px;
+    height:200px;
+    text-align: center;   
+    padding:20px;
+
+}
