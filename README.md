@@ -155,7 +155,7 @@ Each phase folder follows the same convention:
 
 - [✅] **Day 7:** CSS Syntax, Selectors (element/class/id/group), Specificity Basics
 - [✅] **Day 8:** Colors & Backgrounds, Typography/Fonts, Basic Borders & Spacing
-- [ ] **Day 9:** Box Model, Units (`px`, `rem`, `em`), & Positioning
+- [✅] **Day 9:** Box Model, Units (`px`, `rem`, `em`), & Positioning
 - [ ] **Day 10:** Flexbox Deep Dive (`justify`, `align`, `wrap`)
 - [ ] **Day 11:** CSS Grid In-Depth (templates, areas, fractions)
 - [ ] **Day 12:** Responsive Design & Media Queries
