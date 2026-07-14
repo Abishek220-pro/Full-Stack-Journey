@@ -85,6 +85,7 @@ before Zoho in Jan–Feb 2027 — more runway than the original plan gave you)
 - [  ] Day 12: Responsive Design & Media Queries
 - [ ] Day 13: Tailwind Setup & Core Utilities
 
+
 ### ⚙️ Phase 4 — JavaScript *(15 Days: Day 15–29)*
 - [ ] Day 15: Variables & Data Types
 - [ ] Day 16: Operators & Conditionals
