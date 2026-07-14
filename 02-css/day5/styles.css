@@ -1,0 +1,19 @@
+.container{
+    display: grid;
+    grid-templete-columns:100px 100px 100px;
+    align-content:center;
+    justify-content:center;
+    place-content:center;
+
+
+
+
+}
+.container{
+display:grid;
+
+grid-template-areas:
+"header header"
+"nav main"
+"footer footer";
+}
