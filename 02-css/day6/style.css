@@ -1,12 +1,15 @@
-.box{
-    width: 400px;
-    height:200px;
-    background:red;
+.vijay{
+    color:yellow;
 }
-@media (max-width:768px)
+@media screen and (max-width:600px)
 {
-    .box{
-        width:200px;
-        background: blue;
+    .vijay{
+        color:blue;
+    }
+}
+@media screen and (max-width:400px)
+{
+    .vijay{
+        color:red;
     }
 }
