@@ -82,9 +82,9 @@ before Zoho in Jan–Feb 2027 — more runway than the original plan gave you)
 - [✅] Day 7–9: Selectors/Specificity, Colors/Typography, Box Model/Units/Positioning
 - [✅] Day 10: Flexbox Deep Dive
 - [✅] Day 11: CSS Grid In-Depth
-- [  ] Day 12: Responsive Design & Media Queries
+- [✅] Day 12: Responsive Design & Media Queries
 - [ ] Day 13: Tailwind Setup & Core Utilities
-
+- [ ] Day 14: Responsive Prefixes, Dark Mode, `@apply` — 🛠️ SaaS Landing Page
 
 ### ⚙️ Phase 4 — JavaScript *(15 Days: Day 15–29)*
 - [ ] Day 15: Variables & Data Types
