@@ -87,8 +87,8 @@ before Zoho in Jan–Feb 2027 — more runway than the original plan gave you)
 - [ ] Day 14: Responsive Prefixes, Dark Mode, `@apply` — 🛠️ SaaS Landing Page
 
 ### ⚙️ Phase 4 — JavaScript *(15 Days: Day 15–29)*
-- [ ] Day 15: Variables & Data Types
-- [ ] Day 16: Operators & Conditionals
+- [✅] Day 15: Variables & Data Types
+- [✅]Day 16: Operators & Conditionals
 - [ ] Day 17: Loops
 - [ ] Day 18: Functions
 - [ ] Day 19: Arrays & Objects
