@@ -89,10 +89,10 @@ before Zoho in Jan–Feb 2027 — more runway than the original plan gave you)
 ### ⚙️ Phase 4 — JavaScript *(15 Days: Day 15–29)*
 - [✅] Day 15: Variables & Data Types
 - [✅]Day 16: Operators & Conditionals
-- [ ] Day 17: Loops
-- [ ] Day 18: Functions
-- [ ] Day 19: Arrays & Objects
-- [ ] Day 20: Scope & Hoisting
+- [✅] Day 17: Loops
+- [✅] Day 18: Functions
+- [✅] Day 19: Arrays & Objects
+- [✅] Day 20: Scope & Hoisting
 - [ ] Day 21: Closures
 - [ ] Day 22: `==` vs `===` & Type Coercion
 - [ ] Day 23: Arrow Functions & Rest/Default Params
