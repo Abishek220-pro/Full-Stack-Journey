@@ -1,5 +1,5 @@
-const users = ["Abishek", "Arun", "Kumar"];
+const users = ["Abishek", "Arun", "Kumar","Ajay"];
 
 users.map((user) => {
-    return <h1>{user}</h1>;
+    console.log(user);
 });
