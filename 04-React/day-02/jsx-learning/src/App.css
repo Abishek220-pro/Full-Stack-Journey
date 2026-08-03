@@ -1,0 +1,27 @@
+.hello{
+  color:red;
+}
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  border: 2px solid rgb(90, 32, 32);
+  
+}
+.tvk{
+  text-align: center;
+  color:rgb(13, 218, 133);
+}
+.tt{
+  text-align: center;
+}
+.mm{
+  color: green;
+
+}
+.uu{
+  color:red;
+}
